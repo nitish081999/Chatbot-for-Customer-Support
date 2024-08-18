@@ -1,4 +1,3 @@
-fasttext
 langchain
 accelerate
 bitsandbytes
@@ -6,11 +5,10 @@ peft==0.4.0
 transformers
 trl==0.4.7
 langchain_community
-google-search-results
-wikipedia
 langchain-huggingface
 langchain_google_community
 PyPDF2
 bs4
 pypdf
 chromadb
+streamlit
